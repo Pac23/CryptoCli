@@ -46,7 +46,7 @@ This information is borrowed from [Twilio Api Docs](https://www.twilio.com/docs/
  1. Input your mail adress and Password in the s.login section where id and password have been specified 
 2. Fill the from and to section as well on Line 91 
 
-Gmail has a 99 email limit via smtp,so a exception is added 
+Gmail has a 99 email limit via smtp,so a exception has been added.  
 
 ## Usage
 
