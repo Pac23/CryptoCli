@@ -46,6 +46,8 @@ This information is borrowed from [Twilio Api Docs](https://www.twilio.com/docs/
  1. Input your mail adress and Password in the s.login section where id and password have been specified 
 2. Fill the from and to section as well on Line 91 
 
+Gmail has a 99 email limit via smtp,so a exception is added 
+
 ## Usage
 
     $ tracker --add btc-usd 550 25000 eth-usd 900 5000 
@@ -63,3 +65,5 @@ The script is intended to be deployed on the Cloud or a 24/7 Online server.I hav
 This script can be further automated using the coinbase/poloniex or various other Exchange's api's to sell and buy automatically as per the set min_max targets.This is not advised though and is very risky financially. 
 
 This is a very basic version and there are plans to develop a proper package with more functionality. 
+
+
