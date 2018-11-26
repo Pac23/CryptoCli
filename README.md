@@ -1,10 +1,10 @@
 ## CryptoPriceTracker
 
-This is a script to track prices of various cryptocurrencies and alert the user once the user defined maximum & minimum target is reached for that currency.
+This is a tool to track prices of various cryptocurrencies and alert the user once the user defined maximum & minimum target is reached for that currency.
 
 Cryptopricetracker.py helps users who deal in crypto and dont want to miss low and high's of the currencies.
 
-The script has no limit on the amount of currencies you can track. 
+The tool has no limit on the amount of currencies you can track at any time. 
 
 CryptoPriceTracker supports the [Following Currency Pairs](https://www.cryptonator.com/api/currencies)
 
